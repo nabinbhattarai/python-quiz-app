@@ -1,0 +1,104 @@
+[
+    {
+        "1": "What is the highest rated film on IMDb as of January 1st 2022?",
+        "2": "Who discovered that the earth revolves around the sun?",
+        "3": "Which of the following is the capital of Nepal ?",
+        "4": "Which planet has the most moons? ",
+        "5": "Where does the halesi mahadev lies   ?",
+        "6": "In what country would you find Mount Kilimanjaro?",
+        "7": "Which of the following is the largest district of nepal ?",
+        "8": "What Netflix show had the most streaming views in 2021? ?",
+        "9": "What country has won the most World Cups?",
+        "10":"What country has the highest life expectancy?",
+	"11":"Who is the first President of Nepal?",
+	"12":"How far is the moon from Earth?",
+	"13":"How tall is Mount Everest?",
+	"14":"What is the capital of Spain?"
+    },
+    {
+        "1": [
+            "The Shawshank Redemption",
+            "Forrest gump",
+            "Titanic",
+            "Avatar"
+        ],
+        "2": [
+            "Nicolaus Copernicus",
+            "Sir Isacc Nweton",
+            "Albert Einstein",
+            "Nikola Tesla"
+        ],
+        "3": [
+            "Biratnagar",
+            "Pokhara",
+            "Kathmandu",
+            "Birgunj"
+        ],
+        "4": [
+            "Saturn",
+            "Jupiter",
+            "Venus",
+            "Pluto"
+        ],
+        "5": [
+            "Kathmandu",
+            "Khotang",
+            "Bhojpur",
+            "Baglung"
+        ],
+        "6": [
+            "Pakistan",
+            "Fizi",
+            "Tanzania",
+            "South Africa"
+        ],
+        "7": [
+            "Jhumla",
+            "Humla",
+            "Dolpa",
+            "Mugu"
+        ],
+        "8": [
+            "Money Heist",
+            "Squid Game",
+            "Peaky Blinders",
+            "Vikings"
+        ],
+        "9": [
+            "Germany",
+            "Spain",
+            "Brazil",
+            "England"
+        ],
+        "10": [
+            "Singapore",
+            "Hong kong",
+            "Norway",
+            "Chez Repuplic"
+        ],
+	"11":[
+	    "Puspa Kamal Dahal",
+	    "Madhav Kumar Nepal",
+	    "Bidya Devi Bhandari",
+	    "Ram Baran Yadav"	
+	],
+	"12":[
+	    "7,918 miles (12,742 km)",
+	    "86,881 miles (139,822 km)",
+ 	    "238,400 miles (384,400 km)",
+	    "35,980,000 miles (57,910,000 km)"
+	],
+	 "13":[  
+	    "6,683 ft (2,037 m)",
+	    "7,918 ft (2,413 m)",
+	    "19,341 ft (5,895 m)",
+	    "29,029 ft (8,847 m)"
+	],
+	"14":[
+	    "Berlin",
+	    "Buenos Aires",
+	    "Madrid",
+	    "San Juan"
+	]
+    }
+]
